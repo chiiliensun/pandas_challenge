@@ -32,4 +32,8 @@
 -----------------------------------------------------------------------------------------------------------------------
 
 
-3. 
+![Obs3_Items](Images/Obs3_Items.png)
+
+3. Items, Items, Items
+   
+   There were several items that customers repeatedly bought. For example, Final Critic item was bought 13 times which had the highest purchase count out of more than 500 items bought. The items and their attributes were not given in this data set, but analyzing the category of their most profitable items could increase the company sales. This can be used as leading indicators for the creation of items. Another possibility is the company can use this data on creating more items that customers enjoy rather than just sales. 
